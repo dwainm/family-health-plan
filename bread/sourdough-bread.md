@@ -6,13 +6,13 @@ Our everyday loaf. Makes 2 large loaves or 3 smaller ones.
 
 | Ingredient | Amount | Notes |
 |------------|--------|-------|
-| Whole wheat flour | 800g | Stone-ground if possible |
-| Bread flour (or all-purpose) | 200g | For gluten structure |
-| Water (warm) | 750g | 80% hydration |
-| Salt | 20g | 2% of flour weight |
-| Sourdough starter (active) | 200g | Fed 4-8 hours ago, bubbly |
+| Whole wheat flour | 800g (1.76 lbs) | Stone-ground if possible |
+| Bread flour (or all-purpose) | 200g (0.44 lbs) | For gluten structure |
+| Water (warm) | 750g (1.65 lbs) | 80% hydration |
+| Salt | 20g (0.7 oz) | 2% of flour weight |
+| Sourdough starter (active) | 200g (0.44 lbs) | Fed 4-8 hours ago, bubbly |
 
-**Total dough weight:** ~1970g
+**Total dough weight:** ~1970g (4.34 lbs)
 
 ## Timeline
 
@@ -33,7 +33,7 @@ Our everyday loaf. Makes 2 large loaves or 3 smaller ones.
 
 ### 1. Autolyse (1 hour)
 
-Mix 800g whole wheat flour + 200g bread flour with 750g warm water.
+Mix 800g (1.76 lbs) whole wheat flour + 200g (0.44 lbs) bread flour with 750g (1.65 lbs) warm water.
 
 Stir until no dry flour remains. Cover and rest.
 
@@ -41,9 +41,9 @@ Stir until no dry flour remains. Cover and rest.
 
 ### 2. Add Starter and Salt (1 hour into autolyse)
 
-Add 200g active starter. Squeeze and fold into dough until incorporated.
+Add 200g (0.44 lbs) active starter. Squeeze and fold into dough until incorporated.
 
-Add 20g salt. Squeeze and fold until dissolved.
+Add 20g (0.7 oz) salt. Squeeze and fold until dissolved.
 
 Cover and rest 30 minutes.
 
@@ -112,10 +112,10 @@ Cover and refrigerate 12-24 hours.
 
 | Variation | Modification |
 |-----------|--------------|
-| Seeded | Add 100g mixed seeds (soaked 1 hour) with salt |
-| Oat porridge | Replace 100g water with 100g cooked oatmeal |
-| Rye blend | Replace 200g wheat with rye flour |
-| Olive | Add 150g chopped olives with salt |
+| Seeded | Add 100g (3.5 oz) mixed seeds (soaked 1 hour) with salt |
+| Oat porridge | Replace 100g (3.5 oz) water with 100g (3.5 oz) cooked oatmeal |
+| Rye blend | Replace 200g (0.44 lbs) wheat with rye flour |
+| Olive | Add 150g (5.3 oz) chopped olives with salt |
 
 ## Family Notes
 

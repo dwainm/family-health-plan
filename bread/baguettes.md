@@ -15,11 +15,11 @@ Same as [sourdough bread](sourdough-bread.md):
 
 | Ingredient | Amount |
 |------------|--------|
-| Whole wheat flour | 800g |
-| Bread flour | 200g |
-| Water (warm) | 750g |
-| Salt | 20g |
-| Sourdough starter (active) | 200g |
+| Whole wheat flour | 800g (1.76 lbs) |
+| Bread flour | 200g (0.44 lbs) |
+| Water (warm) | 750g (1.65 lbs) |
+| Salt | 20g (0.7 oz) |
+| Sourdough starter (active) | 200g (0.44 lbs) |
 
 ## Timeline
 
@@ -106,7 +106,7 @@ Baguettes stale quickly. Plan to eat same day.
 | Option | Method |
 |--------|--------|
 | Same day | Paper bag, room temp |
-| Next day | Revive in 200°C oven 5 minutes |
+| Next day | Revive in 200°C (390°F) oven 5 minutes |
 | Freeze | Wrap well, freeze same day, reheat from frozen |
 
 ## Serving Suggestions
